@@ -1,11 +1,7 @@
 # README – MSc Project Source Code
 
 Project Title: Understanding the Robustness of Speech-Based Analyses for Remote Health Assessment  
-Author: Allan Joe Achangudan  
-Student ID: k24015724  
-Programme: MSc Data Science, King’s College London  
-Supervisor: Dr. Nicholas Cummins  
-Submission Date: 6th August 2025  
+Author: Allan Joe Achangudan   
 
 ---
 
