@@ -1,9 +1,3 @@
-# README – MSc Project Source Code
-
-Project Title: Understanding the Robustness of Speech-Based Analyses for Remote Health Assessment  
-Author: Allan Joe Achangudan   
-
----
 
 ##Project Summary
 
